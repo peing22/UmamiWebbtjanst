@@ -10,5 +10,3 @@ Det finns fyra olika endpoints:
 * https://studenter.miun.se/~pein2200/writeable/dt173g/projekt/webservice/reservation.php
 
 Webbtjänsten är skapad med PHP och presenterar data i JSON-format. Det krävs en API-nyckel för att konsumera webbtjänsten.
-
-API-nyckel: QOat53BjU09GgFLx3h11kJBdYQP84Fc4
