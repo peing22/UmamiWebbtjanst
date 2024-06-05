@@ -1,4 +1,4 @@
-# DT173G Projekt - Webbtjänst
+# Umami (webbtjänst)
 Detta repo innehåller en webbtjänst med implementerad CRUD-funktionalitet som möjliggör utläsning, tillägg, ändring och radering av data från olika tabeller i en databas. 
 
 Via den installationsfil som ingår i repot kan tabellerna (admin, menu, reservation och presentation) skapas för att sedan fyllas med och hantera data genom konsumtion av webbttjänsten.
